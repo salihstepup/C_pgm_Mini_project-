@@ -15,4 +15,4 @@ jobs:
     - uses: actions/checkout@v2
       
     - name: make all
-      run:  make all -C C_pgm_Mini_project-/3_Implementation/
+      run:  make all -C C_pgm_LTTS_Mini_Prjct/C_pgm_Mini_project-/3_Implementation/
