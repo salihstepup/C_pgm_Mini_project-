@@ -1,0 +1,4 @@
+# Structure Diagrams
+
+## Architectural Diagram
+
